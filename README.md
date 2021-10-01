@@ -9,9 +9,7 @@ You can register from [here](https://hacktoberfest.digitalocean.com).
 
 ### 2. Fork it :fork_and_knife:
 
-You can get your own fork/copy of [Lets-Do-Code](https://github.com/Campus-Cluster/Lets-Do-Code) by using the 
-<a href="https://github.com/Campus-Cluster/Lets-Do-Code/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> 
-button or clicking [this](https://github.com/Campus-Cluster/Lets-Do-Code/new/master?readme=1#fork-destination-box).
+You can get your own fork/copy of [Lets-Do-Code](https://github.com/Campus-Cluster/Lets-Do-Code) by clicking the <kbd><b>Fork</b></kbd> button on top up bar.
 
  [![Fork Button](https://github.com/Campus-Cluster/Lets-Do-Code/blob/main/_resources/fork.jpg)](https://github.com/Campus-Cluster/Lets-Do-Code)
 
