@@ -23,6 +23,6 @@ You can find new languages in this [Programming Language List](https://en.wikipe
 ### 4. Commit & PR :running: 
 
 After you have completed these steps, then start contributing by checking `Help Wanted` issues and creating 
-[pull requests](https://github.com/GitHubExperts-LK/Hello-World/pulls).  
+[pull requests](https://github.com/Campus-Cluster/Lets-Do-Code/pulls).  
 
 ### 5. Give this Project a Star :star:  
